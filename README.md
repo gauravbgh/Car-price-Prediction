@@ -1,4 +1,4 @@
-# Chatbot-Restaurant-Search
+# Car-price-Prediction
 
 This is a very basic regression problem where the problem asked us to predict the car price. The data consists of several features like brand, engine size, drive wheel etc.
 
